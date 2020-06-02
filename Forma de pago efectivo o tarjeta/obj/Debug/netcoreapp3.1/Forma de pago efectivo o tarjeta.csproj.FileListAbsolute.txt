@@ -1,0 +1,13 @@
+C:\Users\Leuris Castillo\source\repos\Forma de pago efectivo o tarjeta\bin\Debug\netcoreapp3.1\Forma de pago efectivo o tarjeta.exe
+C:\Users\Leuris Castillo\source\repos\Forma de pago efectivo o tarjeta\bin\Debug\netcoreapp3.1\Forma de pago efectivo o tarjeta.deps.json
+C:\Users\Leuris Castillo\source\repos\Forma de pago efectivo o tarjeta\bin\Debug\netcoreapp3.1\Forma de pago efectivo o tarjeta.runtimeconfig.json
+C:\Users\Leuris Castillo\source\repos\Forma de pago efectivo o tarjeta\bin\Debug\netcoreapp3.1\Forma de pago efectivo o tarjeta.runtimeconfig.dev.json
+C:\Users\Leuris Castillo\source\repos\Forma de pago efectivo o tarjeta\bin\Debug\netcoreapp3.1\Forma de pago efectivo o tarjeta.dll
+C:\Users\Leuris Castillo\source\repos\Forma de pago efectivo o tarjeta\bin\Debug\netcoreapp3.1\Forma de pago efectivo o tarjeta.pdb
+C:\Users\Leuris Castillo\source\repos\Forma de pago efectivo o tarjeta\obj\Debug\netcoreapp3.1\Forma de pago efectivo o tarjeta.csprojAssemblyReference.cache
+C:\Users\Leuris Castillo\source\repos\Forma de pago efectivo o tarjeta\obj\Debug\netcoreapp3.1\Forma de pago efectivo o tarjeta.AssemblyInfoInputs.cache
+C:\Users\Leuris Castillo\source\repos\Forma de pago efectivo o tarjeta\obj\Debug\netcoreapp3.1\Forma de pago efectivo o tarjeta.AssemblyInfo.cs
+C:\Users\Leuris Castillo\source\repos\Forma de pago efectivo o tarjeta\obj\Debug\netcoreapp3.1\Forma de pago efectivo o tarjeta.csproj.CoreCompileInputs.cache
+C:\Users\Leuris Castillo\source\repos\Forma de pago efectivo o tarjeta\obj\Debug\netcoreapp3.1\Forma de pago efectivo o tarjeta.dll
+C:\Users\Leuris Castillo\source\repos\Forma de pago efectivo o tarjeta\obj\Debug\netcoreapp3.1\Forma de pago efectivo o tarjeta.pdb
+C:\Users\Leuris Castillo\source\repos\Forma de pago efectivo o tarjeta\obj\Debug\netcoreapp3.1\Forma de pago efectivo o tarjeta.genruntimeconfig.cache
